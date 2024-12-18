@@ -18,7 +18,7 @@ This script automates gameplay for the Cookie Clicker game available at [Cookie 
 
 1. Clone this repository or copy the script.
 2. Install the required Python packages:
-   ```bash
+   ```
    pip install selenium
    ```
 3. Place the chromedriver executable in a directory included in your system's PATH or in the same directory as the script.
@@ -30,7 +30,6 @@ This script automates gameplay for the Cookie Clicker game available at [Cookie 
 
 ```
 python cookie_clicker_bot.py
-
 ```
 
 3. The bot will open a Chrome browser, start clicking the cookie, and automatically buy upgrades as funds allow.
