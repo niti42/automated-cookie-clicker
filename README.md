@@ -21,7 +21,6 @@ This script automates gameplay for the Cookie Clicker game available at [Cookie 
    ```
    pip install selenium
    ```
-3. Place the chromedriver executable in a directory included in your system's PATH or in the same directory as the script.
 
 ## Usage
 
